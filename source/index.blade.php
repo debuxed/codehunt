@@ -9,7 +9,11 @@
 
     <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
 
-    <h2 id="test">Asset Compilation Test</h2>
+    <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank">
+        <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
+    </a>
+
+    <h2>Asset Compilation Test</h2>
 
     <p>CSS test: <span class="test-css">text with blue border</span></p>
 
