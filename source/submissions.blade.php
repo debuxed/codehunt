@@ -1,9 +1,9 @@
 @extends('_layouts.master')
 
-@section('title', 'Contact')
+@section('title', 'Submissions')
 
 @section('content')
-    <h1>Contact</h1>
+    <h1>Submissions</h1>
 
     <form action="https://formcarry.com/s/{{ $page->services->formcarry }}" method="post">
         <div>
