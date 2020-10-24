@@ -2,9 +2,9 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://kind-austin-9afc66.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
+        'title' => 'Code Hunt',
         'description' => 'Personal blog of John Doe.',
         'image' => 'default-share.png',
     ],

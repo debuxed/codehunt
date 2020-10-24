@@ -1,8 +1,8 @@
 ---
-title: 'Clue 1'
+title: 'Puzzle'
 date: 2020-10-10
 tags:
-  - clue1
+  - puzzle
 image: 
 ---
 

@@ -7,5 +7,5 @@ image:
 ---
 
 
-![ASCII](https://i.ibb.co/dcQCNtk/Microsoft-Teams-image.jpg)
+![ASCII](https://raw.githubusercontent.com/debuxed/codehunt/master/source/_assets/images/Ascii.png)
 
