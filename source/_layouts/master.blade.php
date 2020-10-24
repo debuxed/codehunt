@@ -23,10 +23,10 @@
                 <strong>{{ $page->site->title }}</strong><br>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li><a href="/posts">Posts</a></li>
-                    <li><a href="/about">About</a></li>
+                    <li><a href="/puzzle">Puzzle</a></li>
+                    <li><a href="/technology">Technology</a></li>
                     <li><a href="https://go.generalmills.com/codehuntsubmissions">Submissions</a></li>
-                    <li><a href="/leaderboard">Leaderboard</a></li>
+                    <li><a href="https://go.generalmills.com/codehuntleaderboard">Leaderboard</a></li>
                     <li><a href="/faq">FAQ</a></li>
                 </ul>
             </nav>

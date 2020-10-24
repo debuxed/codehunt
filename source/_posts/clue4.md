@@ -1,9 +1,11 @@
 ---
 title: 'Clue 4'
-date: 2020-05-14
-image: https://res.cloudinary.com/artisanstatic/conversation.jpg
-comments: false
+date: 2020-10-10
+tags:
+  - clue4
+image: 
 ---
-Register the website on [Disqus](https://disqus.com/profile/signup).
 
-Get your **Disqus shortname**, go to `config.php` and add your shortname under the `services` key.
+
+![ASCII](https://i.ibb.co/dcQCNtk/Microsoft-Teams-image.jpg)
+

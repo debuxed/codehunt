@@ -5,7 +5,7 @@ return [
     'baseUrl' => 'https://kind-austin-9afc66.netlify.app',
     'site' => [
         'title' => 'Code Hunt',
-        'description' => 'Personal blog of John Doe.',
+        'description' => 'Find the COVIDIOT',
         'image' => 'default-share.png',
     ],
     'owner' => [
