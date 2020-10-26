@@ -24,8 +24,9 @@ Solving each clue will give you a unique secret key. Using the secret key you wi
 <li>Employee</li>
 <li>Location</li> 
 <li>Transport</li>
+<li>Relation between Employee, location, transport. </li>
 </ul>
-Relation between Employee, location, transport. Each clue has only one unique solution, and each can be solved using simple logical processes (i.e. educated guesses are not required).
+Each clue has only one unique solution, and each can be solved using simple logical processes (i.e. educated guesses are not required).
 Clues can either provide you and your team a valid association (the subjects are linked) or dissociation (the subjects are not linked).
 </ul>
 </ul>
@@ -37,7 +38,7 @@ We expect an Automated/Programmed solution that would take input as the values o
 <li>Just in Time Bonus Challenge.</li>
 <ul>
 Every 30 minutes code hunt team will email you bonus question. The solution will be a key, use this key to fetch the "unwrap token".
-Take the token and go retrieve the value from go/unwrap.
+Take the token and go retrieve the value from <b>go/unwrap</b>.
 The Token is a one time use, so only one team will be able to claim the points. If you’re not in time, <b>go/unwrap</b> will give you an error.
 First team to use the unwrap token and provide the value to the Code Hunt Team will earn bonus points!
 
