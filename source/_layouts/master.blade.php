@@ -23,8 +23,8 @@
                 <strong>{{ $page->site->title }}</strong><br>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li><a href="/puzzle" target="_blank">Puzzle</a></li>
-                    <li><a href="/technology" target="_blank">Technology</a></li>
+                    <li><a href="/puzzle">Puzzle</a></li>
+                    <li><a href="/technology">Technology</a></li>
                     <li><a href="https://go.generalmills.com/codehuntsubmissions" target="_blank">Submissions</a></li>
                     <li><a href="https://go.generalmills.com/codehuntleaderboard" target="_blank">Leaderboard</a></li>
                     <li><a href="/faq">FAQ</a></li>
