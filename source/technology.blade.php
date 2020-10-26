@@ -6,7 +6,17 @@
     <h3>Technology</h3>
 
     <ul>
-        <li><a href="https://learn.hashicorp.com/tutorials/vault/approle">Vault Docs </a></li>
+        <li> Vault </li>
+        <ul>
+        <li> App Role </li>
+        
+        { <br>
+            "role_id": "d2dda593-6159-056f-c1bf-247a3f9027f5", <br>
+            "secret_id": "b8e16122-9d63-37a6-a8b6-b41735892bfc" <br>
+        }
+        <li><a href="https://learn.hashicorp.com/tutorials/vault/approle">References </a></li>
+        
+        </ul>
         <li><a href="https://docs.mongodb.com/guides/server/drivers/">Mongo DB</a></li>
         <li><a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15">SQL Server</a></li>
         <li><a href="https://genmills.sharepoint.com/sites/Hadoop/Hadoopedia/Web%20Based%20Query%20Tools.aspx">Hadoop</a></li>
