@@ -36,12 +36,13 @@ We expect an Automated/Programmed solution that would take input as the values o
 
 <li>Just in Time Bonus Challenge.</li>
 <ul>
-Every 30 minutes code hunt team will email you bonus question. 
-Take the solution to the question and go retrieve a go/unwrap token.
-The Token is a one time use, so only one team will be able to claim the points. If you’re not in time, go/unwrap will give you an error.
+Every 30 minutes code hunt team will email you bonus question. The solution will be a key, use this key to fetch the "unwrap token".
+Take the token and go retrieve the value from go/unwrap.
+The Token is a one time use, so only one team will be able to claim the points. If you’re not in time, <b>go/unwrap</b> will give you an error.
 First team to use the unwrap token and provide the value to the Code Hunt Team will earn bonus points!
-The Codehunt team will be unbiased while selecting podiums in case of close calls or even ties and the Code Hunt committee's call will be the final one.
+
 </ul>
+<li> Disclaimer: The Codehunt team will be unbiased while selecting podiums in case of close calls or even ties and the Code Hunt committee's call will be the final one. </li>
 </ul>
 </ul>
 @endsection

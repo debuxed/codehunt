@@ -27,6 +27,7 @@
                     <li><a href="/technology">Technology</a></li>
                     <li><a href="/submissions">Submissions</a></li>
                     <li><a href="https://go.generalmills.com/codehuntleaderboard" target="_blank">Leaderboard</a></li>
+                    <li><a href="/vlabs">Vlabs</a></li>
                     <li><a href="/faq">FAQ</a></li>
                 </ul>
             </nav>
