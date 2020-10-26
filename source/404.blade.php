@@ -7,7 +7,7 @@ permalink: 404.html
 @section('title', 'Page not found')
 
 @section('content')
-    <h1>404 Error</h1>
+    <h3>404 Error</h3>
 
     <p>The page you were trying to access could not be found.</p>
 @endsection

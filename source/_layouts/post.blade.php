@@ -3,7 +3,7 @@
 @section('title', $page->title)
 
 @section('content')
-    <h1>{{ $page->title }}</h1>
+    <h3>{{ $page->title }}</h3>
 
     @if ($page->image)
         <img src="{{ $page->image }}" style="object-fit: cover; height: 250px; width: 100%;">

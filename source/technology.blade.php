@@ -3,7 +3,7 @@
 @section('title', 'Technology')
 
 @section('content')
-    <h1>Technology</h1>
+    <h3>Technology</h3>
 
     <ul>
         <li><a href="https://cloud-native-docs.openshift.genmills.com/docs/vault/vault-overview">Vault Docs </a></li>

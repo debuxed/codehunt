@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Leaderboard</h1>
+    <h3>Welcome to Leaderboard</h3>
 
     
 @endsection

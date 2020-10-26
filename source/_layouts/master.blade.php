@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-                <strong>{{ $page->site->title }}</strong><br>
+                <strong><h1>{{ $page->site->title }}</h1></strong><br>
                 <ul>
                     <li><a href="/">Home</a></li>
                     <li><a href="/puzzle">Puzzle</a></li>
@@ -40,10 +40,7 @@
 
         <footer>
             <small>
-                &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
-                <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
-                Maintained by Ranie Santos &nbsp;&bull;&nbsp;
-                <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>.
+                Made with ❤️ by the CodeHunt Team!
             </small>
         </footer>
     </section>

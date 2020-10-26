@@ -3,7 +3,7 @@
 @section('title', 'Submissions')
 
 @section('content')
-    <h1>Submissions</h1>
+    <h3>Submissions</h3>
 
     <form action="https://formcarry.com/s/{{ $page->services->formcarry }}" method="post">
         <div>

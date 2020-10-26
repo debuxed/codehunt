@@ -3,7 +3,7 @@
 @section('title', 'Puzzle')
 
 @section('content')
-    <h1>Puzzle</h1>
+    <h3>Puzzle</h3>
 
     <ul>
         @forelse ($posts->sortBy('title') as $post)

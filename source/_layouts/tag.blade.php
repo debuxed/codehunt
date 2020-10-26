@@ -3,7 +3,7 @@
 @section('title', "Posts tagged '{$page->name()}'")
 
 @section('content')
-    <h1>Posts tagged '{{ $page->name() }}'</h1>
+    <h3>Posts tagged '{{ $page->name() }}'</h3>
 
     <ul>
         @forelse ($posts->filter->hasTag($page->name()) as $post)

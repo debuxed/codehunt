@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @section('content')
-<h1>Welcome to CodeHunt </h1>
+<h3>Welcome to CodeHunt </h3>
 <ul>
 <li>Summary</li>
 <ul>

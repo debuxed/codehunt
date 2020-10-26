@@ -3,7 +3,7 @@
 @section('title', 'FAQ')
 
 @section('content')
-<h1> FAQs </h1>
+<h3> FAQs </h3>
 <ol>
 <li>What does coding language independent means? </li>
 <ul>
