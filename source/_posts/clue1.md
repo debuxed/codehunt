@@ -6,6 +6,5 @@ tags:
 image: 
 ---
 
-
-![ASCII](https://raw.githubusercontent.com/debuxed/codehunt/master/source/_assets/images/Ascii.png)
+<img src="https://raw.githubusercontent.com/debuxed/codehunt/master/source/_assets/images/Ascii.png" width="500">
 

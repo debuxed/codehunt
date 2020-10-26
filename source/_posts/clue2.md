@@ -6,6 +6,5 @@ tags:
 image: 
 ---
 
-
-![clue2](https://raw.githubusercontent.com/debuxed/codehunt/master/source/_assets/images/Clue2.png)
+<img src="https://raw.githubusercontent.com/debuxed/codehunt/master/source/_assets/images/Clue2.png" width="500">
 
