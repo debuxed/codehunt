@@ -4,25 +4,9 @@
 
 @section('content')
     <h3>Submissions</h3>
-
-    <form action="https://formcarry.com/s/{{ $page->services->formcarry }}" method="post">
-        <div>
-            <label for="sender">Name</label><br>
-            <input type="text" name="sender" id="sender" required>
-        </div>
-
-        <div>
-            <label for="email">Email</label><br>
-            <input type="email" name="email" id="email" required>
-        </div>
-
-        <div>
-            <label for="message">Message</label><br>
-            <textarea name="message" id="message" required></textarea>
-        </div>
-
-        <input type="text" name="_gotcha" style="display: none;">
-
-        <input type="submit" name="submit" value="Send">
-    </form>
+    <a href = "http://go.generalmills.com/codehuntsubmissions"> Submit the Answer </a> <br> 
+    <h3> Point System </h3>
+    <img src="https://raw.githubusercontent.com/debuxed/codehunt/master/source/_assets/images/DeductingPoint.png" width="400"> <br>
+    <img src="https://raw.githubusercontent.com/debuxed/codehunt/master/source/_assets/images/EarningPoint.png" width="400"> <br>
+    
 @endsection
