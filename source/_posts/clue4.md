@@ -7,5 +7,4 @@ image:
 ---
 
 
-![ASCII](https://i.ibb.co/dcQCNtk/Microsoft-Teams-image.jpg)
 
