@@ -17,18 +17,18 @@
 
     <h2> NOTE </h2>
     <ul>
-    <li>For Clues:</li>
+    <li>For Clues: (Hints)</li>
     <ul><li>
-	The SPOC will email the CodeHunt Team using the following format. <br>
+	The SPOC will email the CodeHunt Team using the following format for hints.<br>
 	<b>Subject:</b> [Clue#] - [Team Name]<br>
 	<b>Message Body:</b> [Keep it empty]<br>
 	
 	<b>Example:</b> Clue 1 - Apocalypse 
     </li></ul>
 	
-	<li>For Bonus Puzzle: </li>
+	<li>For Bonus Puzzle: (Submissions)</li>
     <ul><li>
-	The SPOC will email the CodeHunt Team using the following format.<br>
+	The SPOC will email the CodeHunt Team using the following format for submissions.<br>
 	<b>Subject:</b> [BonusPuzzle#] - [Team Name]<br>
 	<b>Message Body:</b> [Keep it empty]<br>
 	
