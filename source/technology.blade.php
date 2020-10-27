@@ -10,10 +10,10 @@
         <ul>
         <li> App Role </li>
         
-        { <br>
+        <code>{ <br> 
             "role_id": "d2dda593-6159-056f-c1bf-247a3f9027f5", <br>
             "secret_id": "b8e16122-9d63-37a6-a8b6-b41735892bfc" <br>
-        }
+        }</code>
         <li><a href="https://learn.hashicorp.com/tutorials/vault/approle">References </a></li>
         
         </ul>
