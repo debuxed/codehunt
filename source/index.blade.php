@@ -5,7 +5,7 @@
 <ul>
 <li>Background</li>
 <ul>
-Welcome Teams,
+Welcome CodeHunters,
 Your team is part of the most popular startup, "Laxmi Chit Fund". 
 There are 5 employees working as front liners and supporting the business. They visit the work places to carry critical tasks. 
 In this situation there are govt and company guidelines to keep everyone safe. 
