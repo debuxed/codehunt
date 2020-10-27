@@ -12,7 +12,7 @@ In this situation there are govt and company guidelines to keep everyone safe.
 It is important to keep track of employees so we can identify the danger.
 There's one… or multiple… challenges, however. 
 Logging and communication are ALL OVER THE PLACE.  No one stores their data in the same place. 
-So your job is going to be to start pulling this information together from different data sources. Help us find the COVIDIOT
+So your job is going to be, to start pulling this information together from different data sources. Help us find the COVIDIOT
 </ul>
 <li>Problem</li>
 <ul>
