@@ -20,8 +20,8 @@
     <li>Hints for the Clues:</li>
     <ul><li>
 	The SPOC will email the CodeHunt Team using the following format for hints.<br>
-	<b>Subject:</b> [Clue#] - [Team Name]<br>
-	<b>Message Body:</b> [Keep it empty]<br>
+	<mark><b>Subject:</b> [Clue#] - [Team Name]<br>
+	<b>Message Body:</b> [Keep it empty]<br></mark>
 	
 	<b>Example:</b> Clue 1 - Apocalypse 
     </li></ul>
@@ -29,8 +29,8 @@
 	<li>Submitting the Bonus Puzzle</li>
     <ul><li>
 	The SPOC will email the CodeHunt Team using the following format for submissions.<br>
-	<b>Subject:</b> [BonusPuzzle#] - [Team Name]<br>
-	<b>Message Body:</b> [Keep it empty]<br>
+	<mark><b>Subject:</b> [BonusPuzzle#] - [Team Name]<br>
+	<b>Message Body:</b> Key<br></mark>
 	
 	<b>Example:</b> Bonus Puzzle 1 - Apocalypse</li></ul>
 
